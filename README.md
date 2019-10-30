@@ -81,4 +81,8 @@ For testing using the leds of the FPGA.
 
 ### ASM Chart
 ![ASM Chart](imgs/ASM.svg)
+***
+Done as a part of Digital System Design course.
+
+
 
